@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="badge-css"/>
 <br>
 <br>
-  <a href="https://lincolnneres.github.io/Site-Microsoft/#">Link do Pojeto</a>
+  <a href="https://lincolnneres.github.io/Site-Microsoft/#">Link do Projeto</a>
   <br>
   <br>
 <img src="https://github.com/Lincolnneres/Site-Microsoft/blob/master/img/Layout%20-%20Microsoft.png?raw=true"  width="600px height="600px">
